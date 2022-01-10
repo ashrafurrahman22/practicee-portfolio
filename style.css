@@ -14,3 +14,14 @@ td, th {
 p {
     font-size: 30px;
 }
+section{
+    margin-bottom: 5%;
+}
+.web-name{
+    margin-right: 70%;
+    margin-left: 5%;
+}
+header{
+    background-color: lightslategray;
+    color: white;
+}
