@@ -1,0 +1,16 @@
+
+h1 {
+    text-align: center;
+}
+table {
+    border-collapse: collapse;
+    margin-left: 40%;
+    margin-right: 40%;
+}
+td, th {
+    border: 1px solid gray;
+    padding: 10px ;
+}
+p {
+    font-size: 30px;
+}
